@@ -13,6 +13,6 @@ When all the required dependecies will be installed you can run the program itse
 ./run.sh
 
 
-| Linux | Windows | Mac OS |
-|----------|----------|----------|
-| Yes    | No   | No   |
+        | Linux | Windows | Mac OS |
+        |----------|----------|----------|
+        | Yes    | No   | No   |
