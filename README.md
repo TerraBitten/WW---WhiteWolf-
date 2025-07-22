@@ -1,4 +1,4 @@
-# WW---WhiteWolf-
+# WW-WhiteWolf
 WhiteWolf is a more functional verison of NHT (Nebula Tools) which is my previous attempt on creating a multi-tool 
 
 you should'nt really have any problems with running this software at it will be pretty simple just like the previous multi tool I made.
