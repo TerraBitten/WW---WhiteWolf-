@@ -14,7 +14,7 @@ When all the required dependecies will be installed you can run the program itse
 
 Compatible  OS
 |-----|-------------------------------------|
-|  Yes  | Linux                                    |
-|  Hell nahh | Windows                               |
+|  Yes  | Linux                             |
+|  Hell nahh | Windows                      |
 |  No  | Mac OS                             |
 |-----|-------------------------------------|
