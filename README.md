@@ -16,3 +16,7 @@ When all the required dependecies will be installed you can run the program itse
  | Linux | Windows | Mac OS |
 |----------|----------|----------|
 | Yes    | No   | No   |
+
+____________________________________________
+
+<img width="1077" height="767" alt="WWScreenshot" src="https://github.com/user-attachments/assets/4328ba9a-a9f5-44eb-b010-dc8c82a9e008" />
