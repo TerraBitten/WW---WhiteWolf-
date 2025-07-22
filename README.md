@@ -12,9 +12,7 @@ When all the required dependecies will be installed you can run the program itse
 
 ./run.sh
 
-Compatible  OS
-|-----|-------------------------------------|
-|  Yes  | Linux                             |
-|  Hell nahh | Windows                      |
-|  No  | Mac OS                             |
-|-----|-------------------------------------|
+
+| Linux | Windows | Mac OS |
+|----------|----------|----------|
+| Yes    | No   | No   |
